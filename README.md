@@ -7,7 +7,7 @@ and a LLaMa model.
 
 ### Architecture
 
-![image](https://github.com/OlayinkaPeter/LLM-Deployment-Config/llm_config.png)
+![image](https://github.com/OlayinkaPeter/LLM-Deployment-Config/blob/master/llm_config.png)
 
 
 This repo is a basic FastAPI app that 
