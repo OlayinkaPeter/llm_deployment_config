@@ -1,3 +1,15 @@
+## Parameterized Deployment Config for LLaMa and GPT-2
+
+This repo is a basic FastAPI app that 
+serves as an interface for generating text with config parameters
+from two different language models: a GPT-2 model 
+and a LLaMa model. 
+
+### Architecture
+
+![image](https://github.com/OlayinkaPeter/LLM-Deployment-Config/llm_config.png)
+
+
 This repo is a basic FastAPI app that 
 serves as an interface for generating text 
 using two different language models: a GPT-2 model 
